@@ -1,0 +1,8 @@
+## Interface: 11401
+## Title: DuelTracker
+## Notes: Tracks your duel wins and losses.
+## Author: Mordecai-Fairbanks
+## Version: 1.0
+## SavedVariables: DuelStats
+
+DuelTracker.lua
